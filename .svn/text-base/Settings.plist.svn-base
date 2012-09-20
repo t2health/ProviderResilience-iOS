@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>keyAnonymousData</key>
+	<integer>1</integer>
+	<key>keyBuilderKillerDateTime</key>
+	<date>2012-07-24T17:40:57Z</date>
+	<key>keyDailyReminders</key>
+	<integer>1</integer>
+	<key>keyDailyReminderTime</key>
+	<date>2012-07-26T15:00:00Z</date>
+	<key>keyDailyScoresResetTime</key>
+	<date>2012-07-26T09:00:00Z</date>
+	<key>keyLastResetDateTime</key>
+	<date>2012-07-31T14:29:52Z</date>
+	<key>keyLastScoreFunStuff</key>
+	<integer>0</integer>
+	<key>keyLastProQOLDateTime</key>
+	<date>2012-07-24T17:26:35Z</date>
+	<key>keyLastBurnoutDateTime</key>
+	<date>2012-08-10T18:27:40Z</date>
+	<key>keyLastProQOLScoreBonus</key>
+	<integer>0</integer>
+	<key>keyLastProQOLScoreBuilders</key>
+	<integer>0</integer>
+	<key>keyLastProQOLScoreBurnout</key>
+	<integer>0</integer>
+	<key>keyLastProQOLScoreCompassion</key>
+	<integer>0</integer>
+	<key>keyLastProQOLScoreKillers</key>
+	<integer>0</integer>
+	<key>keyLastProQOLScoreTrauma</key>
+	<integer>0</integer>
+	<key>keyLastVacationDateTime</key>
+	<date>1955-04-04T15:42:11Z</date>
+	<key>keyTextBonus1</key>
+	<string></string>
+	<key>keyVacationOnOff</key>
+	<integer>0</integer>
+	<key>keyWelcomeMessage</key>
+	<integer>1</integer>
+</dict>
+</plist>

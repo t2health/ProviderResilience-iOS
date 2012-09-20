@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>keyHappyScore</key>
+	<integer>50</integer>
+	<key>keyTrappedScore</key>
+	<integer>-50</integer>
+	<key>keySatisfiedScore</key>
+	<integer>50</integer>
+	<key>keyPreoccupiedScore</key>
+	<integer>-50</integer>
+	<key>keyConnectedScore</key>
+	<integer>50</integer>
+	<key>keyWornoutScore</key>
+	<integer>-50</integer>
+	<key>keyCaringScore</key>
+	<integer>50</integer>
+	<key>keyOnedgeScore</key>
+	<integer>-50</integer>
+	<key>keyValuableScore</key>
+	<integer>50</integer>
+	<key>keyTraumatizedScore</key>
+	<integer>-50</integer>
+</dict>
+</plist>

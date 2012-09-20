@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Analytics</key>
+	<dict>
+		<key>appKey</key>
+		<string>IZWJW5W5BEPX5MX9MN47</string>
+		<key>debugKey</key>
+		<string>NYAK1DHUXMF1FVXKCGIG</string>
+	</dict>
+	<key>Brightcove</key>
+	<dict>
+		<key>apikey1</key>
+		<string>KqxnaC4wR_9Z7OoPadhidvvddOPPUIwPiHwIj_WZXqJWZohd9G1Mmw..</string>
+		<key>apikey2</key>
+		<string>aEKaJd8fSOxJHDP_akYJVkjXLywOcC8jSESi13ZrmdY0VVI6r7FDEQ..</string>
+		<key>depression</key>
+		<integer>1125410612001</integer>
+		<key>anger</key>
+		<integer>1125552100001</integer>
+		<key>depression2</key>
+		<integer>1125380434001</integer>
+		<key>alcohol</key>
+		<integer>1124090491001</integer>
+		<key>compassion</key>
+		<integer>1279636611001</integer>
+		<key>trauma</key>
+		<integer>1279636609001</integer>
+		<key>stigma</key>
+		<integer>1125586040001</integer>
+	</dict>
+	<key>URLs</key>
+	<dict>
+		<key>reachablityCheckBC</key>
+		<string>api.brightcove.com</string>
+		<key>T2</key>
+		<string>http://t2health.org/</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>QOL-Low-Compassion</key>
+	<string>You’ve scored in the low range of Compassion Satisfaction which means that more than 75% of those completing this scale scored higher than you did. This score suggests that you may either find problems with your current work, or there may be some other reason—for example, you might derive your satisfaction from activities other than your work.</string>
+	<key>QOL-Med-Compassion</key>
+	<string>You’ve scored in the average range of Compassion Satisfaction. Approximately 25% of individuals completing this scale scored higher than you did, and about 25% scored lower than you. This suggests that you don’t find your work to be consistently satisfying, but that you do derive some degree of satisfaction from your daily work activities.</string>
+	<key>QOL-High-Compassion</key>
+	<string>You’ve scored in the high range of Compassion Satisfaction which is higher than 75% of individuals completing this scale. This suggest that you are experiencing considerable satisfaction with your work and that your daily activities tend to bring you pleasure through a sense of competence and accomplishment.</string>
+	<key>QOL-Low-Burnout</key>
+	<string>Your score associated with Burnout is in a range that is lower than approximately 75% of the scores of those who have taken this scale. This low score suggests that you are energetic, like what you are doing and feel like you are making a difference in the work that you do.</string>
+	<key>QOL-Med-Burnout</key>
+	<string>Your Burnout score is in the average range. About 25% scored higher than you and about 25% scored lower. This may indicate that you are currently experiencing frustration in your work and may be feeling discouraged or ineffective. It may be worth reviewing your answers to see if you can pin down the source of these feelings and determine how you might improve your experience at work.</string>
+	<key>QOL-High-Burnout</key>
+	<string>Your Burnout score is higher than about 75% of your colleagues who have completed this scale. You may wish to think about what aspect of your work makes you feel like you are not effective in your position. Your score may reflect your mood; perhaps you are having a “bad day” or are in need of some time off. If the high score persists or if it is reflective of other worries, it may be a cause for concern.</string>
+	<key>QOL-Low-Trauma</key>
+	<string>Your score associated with Secondary Traumatic Stress is in a range that is lower than approximately 75% of the scores of those who have taken this scale. You may not be working with individuals who are reporting and describing traumatic events or if you are, you are doing a good job creating necessary emotional boundaries.</string>
+	<key>QOL-Med-Trauma</key>
+	<string>Your Secondary Traumatic Stress score is in the average range. Approximately 25% of individuals completing this scale scored higher than you did, and about 25% scored lower. If you are working with clients or patients who are describing highly traumatic experiences, be sure to focus on self-care which includes maintaining physical, emotional, social, and spiritual supports.</string>
+	<key>QOL-High-Trauma</key>
+	<string>Your Secondary Traumatic Stress score is higher than about 75% of others. Higher scores do not mean that you have a problem, but they are an indication that you may want to examine how you feel about your work and your work environment or if there are other reasons for the elevated score. You may wish to discuss this with your supervisor, a colleague, or a health care professional.</string>
+	<key>QOL-Preview-Compassion</key>
+	<string>Compassion Satisfaction is about the pleasure you derive from doing your work well. Update the ProQOL responses to see your score.</string>
+	<key>QOL-Preview-Burnout</key>
+	<string>Burnout is associated with feelings of hopelessness and difficulty in doing your job effectively. Update the ProQOL responses to see your score.</string>
+	<key>QOL-Preview-Trauma</key>
+	<string>Secondary Traumatic Stress can occur due to exposure to others&apos; traumatic events during your work. Update the ProQOL responses to see your score.</string>
+</dict>
+</plist>
