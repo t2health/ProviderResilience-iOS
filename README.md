@@ -3,6 +3,7 @@ Provider Resilience
 
 [Official Site: http://www.t2health.org](http://t2health.org)
 
+Note:  This iOS application depends the commercial Shinobi Chart Library, which is not included in the repository.
 
 Submitting bugs
 ===============
