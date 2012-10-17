@@ -243,8 +243,6 @@
 		083BFA2815617291001CCC2D /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 083BFA2715617291001CCC2D /* QuartzCore.framework */; };
 		0844468115B0D4E400187A93 /* ViewBCVideoController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0844467E15B0D49100187A93 /* ViewBCVideoController.m */; };
 		0844468315B0D51200187A93 /* app.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0844468215B0D51200187A93 /* app.plist */; };
-		0844468515B0E3AE00187A93 /* libBrightcoveMediaAPI.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0844468415B0E3AE00187A93 /* libBrightcoveMediaAPI.a */; };
-		0844468715B0E3EB00187A93 /* libBrightcovePlayerKit.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0844468615B0E3EB00187A93 /* libBrightcovePlayerKit.a */; };
 		0844468915B0E50B00187A93 /* MediaPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0844468815B0E50B00187A93 /* MediaPlayer.framework */; };
 		0844468B15B0E5CD00187A93 /* BCImages.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 0844468A15B0E5CD00187A93 /* BCImages.bundle */; };
 		0851CD1A1594C71C007B9F04 /* EULA.txt in Resources */ = {isa = PBXBuildFile; fileRef = 0851CD191594C71C007B9F04 /* EULA.txt */; };
@@ -288,7 +286,6 @@
 		086C912D1561BD040087D125 /* VirtueCardDeck.m in Sources */ = {isa = PBXBuildFile; fileRef = 086C912C1561BCE70087D125 /* VirtueCardDeck.m */; };
 		0871559415C6F2B700723BF8 /* Analytics.m in Sources */ = {isa = PBXBuildFile; fileRef = 084446A115B0EB7000187A93 /* Analytics.m */; };
 		0871559615C6F44D00723BF8 /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 0844469D15B0EAC000187A93 /* Reachability.m */; };
-		0871559815C6F65500723BF8 /* libFlurryAnalytics.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0871559715C6F65500723BF8 /* libFlurryAnalytics.a */; };
 		0871559A15C6F6A100723BF8 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0871559915C6F6A100723BF8 /* SystemConfiguration.framework */; };
 		0876329015D077E700DCD24D /* MainWindow~ipad.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0876328F15D077E700DCD24D /* MainWindow~ipad.xib */; };
 		0876329215D0788C00DCD24D /* DateTimePicker.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0876329115D0788C00DCD24D /* DateTimePicker.xib */; };
@@ -376,6 +373,9 @@
 		08D1A330156579B300E9F1AC /* NetworkError.htm in Resources */ = {isa = PBXBuildFile; fileRef = 08D1A32F156579B300E9F1AC /* NetworkError.htm */; };
 		08D1A33215657B1A00E9F1AC /* NetworkWait.htm in Resources */ = {isa = PBXBuildFile; fileRef = 08D1A33115657B1A00E9F1AC /* NetworkWait.htm */; };
 		08EB5B3615CAE6310023AED1 /* ball-green.png in Resources */ = {isa = PBXBuildFile; fileRef = 08EB5B3515CAE6310023AED1 /* ball-green.png */; };
+		628F8744162F3FAE00C86DA5 /* libBrightcoveMediaAPI.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 628F8741162F3FAE00C86DA5 /* libBrightcoveMediaAPI.a */; };
+		628F8745162F3FAE00C86DA5 /* libBrightcovePlayerKit.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 628F8742162F3FAE00C86DA5 /* libBrightcovePlayerKit.a */; };
+		628F8746162F3FAE00C86DA5 /* libFlurryAnalytics.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 628F8743162F3FAE00C86DA5 /* libFlurryAnalytics.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -613,8 +613,6 @@
 		0844467E15B0D49100187A93 /* ViewBCVideoController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = ViewBCVideoController.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
 		0844467F15B0D49100187A93 /* ViewBCVideoController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewBCVideoController.h; sourceTree = "<group>"; };
 		0844468215B0D51200187A93 /* app.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = app.plist; sourceTree = "<group>"; };
-		0844468415B0E3AE00187A93 /* libBrightcoveMediaAPI.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libBrightcoveMediaAPI.a; path = "../PECoach 1.0/PECoach/libBrightcoveMediaAPI.a"; sourceTree = "<group>"; };
-		0844468615B0E3EB00187A93 /* libBrightcovePlayerKit.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libBrightcovePlayerKit.a; path = "../PECoach 1.0/PECoach/libBrightcovePlayerKit.a"; sourceTree = "<group>"; };
 		0844468815B0E50B00187A93 /* MediaPlayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MediaPlayer.framework; path = System/Library/Frameworks/MediaPlayer.framework; sourceTree = SDKROOT; };
 		0844468A15B0E5CD00187A93 /* BCImages.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = BCImages.bundle; sourceTree = "<group>"; };
 		0844468C15B0E69200187A93 /* BCMoviePlayerController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = BCMoviePlayerController.h; path = "ProviderResilience-iOS/BCMoviePlayerController.h"; sourceTree = "<group>"; };
@@ -688,7 +686,6 @@
 		0867B12A156D83C3001A9124 /* PRdatabaseSQL.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PRdatabaseSQL.m; sourceTree = "<group>"; };
 		086C912B1561BCE70087D125 /* VirtueCardDeck.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = VirtueCardDeck.h; sourceTree = "<group>"; };
 		086C912C1561BCE70087D125 /* VirtueCardDeck.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = VirtueCardDeck.m; sourceTree = "<group>"; };
-		0871559715C6F65500723BF8 /* libFlurryAnalytics.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libFlurryAnalytics.a; path = "../PECoach 1.0/PECoach/PECoach/libFlurryAnalytics.a"; sourceTree = "<group>"; };
 		0871559915C6F6A100723BF8 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
 		0876328F15D077E700DCD24D /* MainWindow~ipad.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = "MainWindow~ipad.xib"; sourceTree = "<group>"; };
 		0876329115D0788C00DCD24D /* DateTimePicker.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = DateTimePicker.xib; sourceTree = "<group>"; };
@@ -790,6 +787,9 @@
 		08D1A32F156579B300E9F1AC /* NetworkError.htm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = NetworkError.htm; sourceTree = "<group>"; };
 		08D1A33115657B1A00E9F1AC /* NetworkWait.htm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = NetworkWait.htm; sourceTree = "<group>"; };
 		08EB5B3515CAE6310023AED1 /* ball-green.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ball-green.png"; sourceTree = "<group>"; };
+		628F8741162F3FAE00C86DA5 /* libBrightcoveMediaAPI.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libBrightcoveMediaAPI.a; path = "ProviderResilience-iOS/libBrightcoveMediaAPI.a"; sourceTree = "<group>"; };
+		628F8742162F3FAE00C86DA5 /* libBrightcovePlayerKit.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libBrightcovePlayerKit.a; path = "ProviderResilience-iOS/libBrightcovePlayerKit.a"; sourceTree = "<group>"; };
+		628F8743162F3FAE00C86DA5 /* libFlurryAnalytics.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libFlurryAnalytics.a; path = "ProviderResilience-iOS/libFlurryAnalytics.a"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -799,18 +799,18 @@
 			files = (
 				0871559A15C6F6A100723BF8 /* SystemConfiguration.framework in Frameworks */,
 				0844468915B0E50B00187A93 /* MediaPlayer.framework in Frameworks */,
-				0844468715B0E3EB00187A93 /* libBrightcovePlayerKit.a in Frameworks */,
-				0844468515B0E3AE00187A93 /* libBrightcoveMediaAPI.a in Frameworks */,
 				080DC02415AC7C5100C47A26 /* OpenGLES.framework in Frameworks */,
 				080DC02115AC7C3400C47A26 /* ShinobiCharts.framework in Frameworks */,
 				0867B124156D8255001A9124 /* libsqlite3.dylib in Frameworks */,
 				08C3D746156A8CAF00366D6B /* MessageUI.framework in Frameworks */,
 				083BFA2815617291001CCC2D /* QuartzCore.framework in Frameworks */,
-				0871559815C6F65500723BF8 /* libFlurryAnalytics.a in Frameworks */,
 				081D98641559894500424E28 /* UIKit.framework in Frameworks */,
 				081D98661559894500424E28 /* Foundation.framework in Frameworks */,
 				081D98681559894500424E28 /* CoreGraphics.framework in Frameworks */,
 				081D986A1559894500424E28 /* CoreData.framework in Frameworks */,
+				628F8744162F3FAE00C86DA5 /* libBrightcoveMediaAPI.a in Frameworks */,
+				628F8745162F3FAE00C86DA5 /* libBrightcovePlayerKit.a in Frameworks */,
+				628F8746162F3FAE00C86DA5 /* libFlurryAnalytics.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -864,11 +864,11 @@
 		081D98541559894500424E28 = {
 			isa = PBXGroup;
 			children = (
-				0871559715C6F65500723BF8 /* libFlurryAnalytics.a */,
+				628F8741162F3FAE00C86DA5 /* libBrightcoveMediaAPI.a */,
+				628F8742162F3FAE00C86DA5 /* libBrightcovePlayerKit.a */,
+				628F8743162F3FAE00C86DA5 /* libFlurryAnalytics.a */,
 				084446A015B0EB5E00187A93 /* Flurry */,
 				0844468F15B0EA0D00187A93 /* BrightCove */,
-				0844468615B0E3EB00187A93 /* libBrightcovePlayerKit.a */,
-				0844468415B0E3AE00187A93 /* libBrightcoveMediaAPI.a */,
 				0844468A15B0E5CD00187A93 /* BCImages.bundle */,
 				080DC03415AC8D7C00C47A26 /* Charts */,
 				081D98621559894500424E28 /* Frameworks */,
@@ -1988,6 +1988,7 @@
 					"$(inherited)",
 					"\"$(SRCROOT)/../PECoach 1.0/PECoach\"",
 					"\"$(SRCROOT)/../PECoach 1.0/PECoach/PECoach\"",
+					"\"$(SRCROOT)/ProviderResilience-iOS\"",
 				);
 				OTHER_LDFLAGS = "";
 				"OTHER_LDFLAGS[arch=*]" = "-lxml2";
@@ -2016,6 +2017,7 @@
 					"$(inherited)",
 					"\"$(SRCROOT)/../PECoach 1.0/PECoach\"",
 					"\"$(SRCROOT)/../PECoach 1.0/PECoach/PECoach\"",
+					"\"$(SRCROOT)/ProviderResilience-iOS\"",
 				);
 				OTHER_LDFLAGS = "";
 				"OTHER_LDFLAGS[arch=*]" = "-lxml2";
